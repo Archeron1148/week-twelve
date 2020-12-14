@@ -12,7 +12,7 @@ challanging --> artistic vs rational knowledge struggle
 
 
 
-### Artistic Learning Through Doing
+### Learning Through Doing and Art
 
 ### Reproducability
 
