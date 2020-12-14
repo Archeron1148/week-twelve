@@ -6,7 +6,7 @@ incomplete
 
 My fail for module 3 is in not taking enough time for the excersizes in these final few weeks. The readings in week 11 were meant to be annotated by us students, but I had fallen behind that week and though I ended up catching up later, I felt like I potentially missed out on some discussion that could have happened because I ended up not making annotations because I knew that I was the last person in class looking at those readings. Furthermore, after peeking in the discord and seeing some of the sonofications and other projects people were able to produce, I wish I had made more time to try out more of week 12's excersizes myself.
 
-My biggest win in module 3 has been being able to catch up again after falling behind on this course in week 11.
+My biggest win in module 3 has been being able to catch up again after falling behind on this course in week 11. I am glad to have been able to catch up and submit this consolidation document (relatively to my other ones) on time for the deadline.
 
 The most challenging part of this last module for me has been reconciling two different view-points on the role of the creative mindset in digital archaeology, which I hope to have made clear by the end of this document (see the section Learning Art Through Doing).
 
