@@ -1,6 +1,6 @@
 >Discuss at least one ‘fail’ and one ‘win’. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. Again, as I asked at the end of Modules 1 and 2, in the context of the last few weeks, what has been most challenging win/fail for you, and why is that?
 
-fail --> not participating week 11, overall not doing the really time consuming activities, seeing others' work is cool though
+My fail for module 3 is in not taking enough time for the excersizes in these final few weeks. The readings in week 11 were meant to be annotated by us students, but I had fallen behind that week and though I ended up catching up later, I felt like I potentially missed out on some discussion that could have happened because I ended up not making annotations because I knew that I was the last person in class looking at those readings. Furthermore, after peeking in the discord and seeing some of the sonofications and other projects people were able to produce, I wish I had made more time to try out more of week 12's excersizes myself.
 
 win -->
 
@@ -10,13 +10,15 @@ challanging --> artistic vs rational knowledge struggle
 
 ### Archaeology of the Heart and Open Data
 
-it is worth considering wether we are doing archaeology of the heart (week 10, [Hodgetts and Kelvin, At the Heart of the Ikaahuk Archaeology Project](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf))
+In their paper titled ["At the Heart of the Ikaahuk Archaeology Project," Lisa Hodgetts and Laura Kelvin](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf) discuss a 'heart-centered approach' to archaeology:
 
-we must consider the ethics of sharing information, it could be dangerous ([week 10 final para](https://github.com/Archeron1148/week-ten/blob/main/reflection.md))
+>Through listening and trying to respond to the needs of com-munity members in Sachs Harbour, my research has become less about reconstruct-ing  past  lives  from  material  remains  and  more  about  working  with  community members  to  facilitate  their  access  to  their  archaeological  heritage  and  supporting them as they make meaning from those remains. It #ows from my personal relation-ships with community members, which makes it a work of the heart, and it is about connecting them with things that have emotional and spiritual meaning and value for  them–  things  of  the  heart.
 
-this is for edu but in a real study, isnt it only right to share the information, for replication validation purposes and freedom of information?
+I think it is worth considering whether we are taking a heart-centered approach towards the communities which the graveyards we recorded our data from serve. Are we ensuring that our interests align with their needs? To this question I would answer no because we are not really engaged in a dialogue with these communities, we are not keeping them updated on what we are doing with the data, and at the end of the day our use of the data is simply for our own educative enrichment. Is the best care being taken that our work will not harm these communities? Since we are using the data in quite limited ways and since our work is rarely published online, it is fairly unlikely that anything from this course will eventually be discovered by one of those communities' members by accidental chance. But we still have an obligation to those communities to not share or publish this data beyond reasonable bounds, because once data is put online it can very much take on a life of its own, and potentially fall into the hands of someone who does not take time to consider about the ethical consequences of using this data and how it may affect these communities.
 
-the natural third position is share but only some information like in Mukurtu heritage project([Hall, "Mukurtu for maatauranga Maaori: A case study in Indigenous archiving for reo and tikanga revitalisation](https://www.waikato.ac.nz/__data/assets/pdf_file/0007/394945/chapter25.pdf))
+It is important to consider this perspective of guarding data alongside so-called open data. The idea behind open data is that we should make data collected and used in studies available and freely accessable in order for the findings of these studies to be reproducable and therefore verifiable. In contrast to the point made above, one could argue that making data used in studies freely accessable ought to be an ethical imperative in itself, because if an argument is based upon some dataset which is unavailable, there is no way to verify the truth of it.
+
+There is therefore a contention: do we guard data so that it does fall into the wrong hands and negatively affect the communities it is collected from or do we allow data to be freely available in order for it to be verifiable? The answer here is certainly something which is not nessesarily easy and which should certainly besided on a case-by-case basis. But most importantly, it need not be a binary decision since we can enforce varying levels of access to data. The Mukurtu heritage project is a good example of this: it is a heart-centered solution to the data sharing problem ([Hall, "Mukurtu for maatauranga Maaori: A case study in Indigenous archiving for reo and tikanga revitalisation](https://www.waikato.ac.nz/__data/assets/pdf_file/0007/394945/chapter25.pdf)).
 
 ### Learning Through Doing and Art
 
