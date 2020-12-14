@@ -1,10 +1,12 @@
+incomplete
+
 >Discuss at least one ‘fail’ and one ‘win’. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. Again, as I asked at the end of Modules 1 and 2, in the context of the last few weeks, what has been most challenging win/fail for you, and why is that?
 
 My fail for module 3 is in not taking enough time for the excersizes in these final few weeks. The readings in week 11 were meant to be annotated by us students, but I had fallen behind that week and though I ended up catching up later, I felt like I potentially missed out on some discussion that could have happened because I ended up not making annotations because I knew that I was the last person in class looking at those readings. Furthermore, after peeking in the discord and seeing some of the sonofications and other projects people were able to produce, I wish I had made more time to try out more of week 12's excersizes myself.
 
 win -->
 
-challanging --> artistic vs rational knowledge struggle
+The most challenging part of this last module for me has been reconciling two different view-points on the role of the creative mindset in digital archaeology: on the one hand, I think it is very important to keep a 
 
 >Given what you’ve read and explored in this last module, which was about ‘communicating’ digital archaeology, what are the implications for ‘doing’ digital archaeology for different audiences? How has your thinking evolved since the end of Module 2? Are there new dilemmas that have emerged?
 
