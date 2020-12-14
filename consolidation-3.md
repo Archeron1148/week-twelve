@@ -26,6 +26,10 @@ There is therefore a contention: do we guard data so that it does fall into the 
 
 ### Learning Through Doing and Art
 
+[At the end of module 2 I wrote about the artistic side of digital archaeology,](https://github.com/Archeron1148/week-eight/blob/main/consolidation-2.md) with specific reference to cyborg archaeology, arguing that it can be a useful educative tool that can teach us "by putting [ourselves] in another's virtual shoes, [to] gain a better understanding of the way they see their world and why they do the things they do." In contrast, at the end of week 11 I seemed more skeptical about the artistic colouring in of the blanks of the archaeological record. Here, I hope to make clear this contention.
+
+In [Hodgetts and Kelvin's "At the Heart of the Ikaahuk Archaeology Project"](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf), they describe 
+
 learning through doing (week 10, [Hodgetts and Kelvin, At the Heart of the Ikaahuk Archaeology Project](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf))
 
 creative mindset works for dissemination of theory only, we should be wary as to not fill in facts and base our models on those, the models we make are not predictative because of chaos theory, models are not the real truth and in history there are so many tiny factors which make an empire ([week 11 notes](https://github.com/Archeron1148/week-eleven/blob/main/reflection.md))
