@@ -8,11 +8,21 @@ challanging --> artistic vs rational knowledge struggle
 
 >Given what you’ve read and explored in this last module, which was about ‘communicating’ digital archaeology, what are the implications for ‘doing’ digital archaeology for different audiences? How has your thinking evolved since the end of Module 2? Are there new dilemmas that have emerged?
 
-### Archaeology of the Heart
+### Archaeology of the Heart and Open Data
 
+it is worth considering wether we are doing archaeology of the heart (week 10, [Hodgetts and Kelvin, At the Heart of the Ikaahuk Archaeology Project](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf))
 
+we must consider the ethics of sharing information, it could be dangerous ([week 10 final para](https://github.com/Archeron1148/week-ten/blob/main/reflection.md))
+
+this is for edu but in a real study, isnt it only right to share the information, for replication validation purposes and freedom of information?
+
+the natural third position is share but only some information like in Mukurtu heritage project([Hall, "Mukurtu for maatauranga Maaori: A case study in Indigenous archiving for reo and tikanga revitalisation](https://www.waikato.ac.nz/__data/assets/pdf_file/0007/394945/chapter25.pdf))
 
 ### Learning Through Doing and Art
+
+learning through doing (week 10, [Hodgetts and Kelvin, At the Heart of the Ikaahuk Archaeology Project](https://digiarch.netlify.app/data/hodgetts-kelvin.pdf))
+
+creative mindset works for dissemination of theory only, we should be wary as to not fill in facts and base our models on those, the models we make are not predictative because of chaos theory, models are not the real truth and in history there are so many tiny factors which make an empire ([week 11 notes](https://github.com/Archeron1148/week-eleven/blob/main/reflection.md))
 
 ### Reproducability
 
