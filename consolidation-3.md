@@ -8,6 +8,12 @@ challanging --> artistic vs rational knowledge struggle
 
 >Given what you’ve read and explored in this last module, which was about ‘communicating’ digital archaeology, what are the implications for ‘doing’ digital archaeology for different audiences? How has your thinking evolved since the end of Module 2? Are there new dilemmas that have emerged?
 
+### Archaeology of the Heart
+
+
+
+### Artistic Learning Through Doing
+
 ### Reproducability
 
 Archaeological work is destructive by its very nature. When an artifact is removed from the earth it was found in it is no longer the same - an artifact can only be found one time. For this reason, the traditional scientific conception of reproducability cannot apply to archaeological phenomena, but once artifacts are abstracted into data and collected in databases, manipulations can be made on the data to bring out hiddel patterns or qualities which do not appear on the surface. Since data can be easily copied so that an original version remains undisturbed, these manipulations can be reproduced by simply following the same set of instructions on a fresh copy of the data in order to validate the results.
