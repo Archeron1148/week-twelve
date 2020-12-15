@@ -1,5 +1,3 @@
-incomplete
-
 # Consolidation Document 3
 
 >Discuss at least one ‘fail’ and one ‘win’. Explicitly situate your discussion with reference to the readings and annotations by the class as a whole. Again, as I asked at the end of Modules 1 and 2, in the context of the last few weeks, what has been most challenging win/fail for you, and why is that?
